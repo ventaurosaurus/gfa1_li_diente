@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+#vid{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    z-index: -1;
+}
